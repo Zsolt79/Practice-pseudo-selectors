@@ -1,0 +1,30 @@
+h1{
+    font-size: large;
+    font-weight: bold;
+}
+
+div{
+    width: 300px;
+    text-align: left;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.first{
+border: black solid 1px;
+border-top: 0px;
+}
+
+.second,.third,.fourth,.fifth,.sixth{
+    border: black solid 1px;
+}
+
+.seventh{
+    border: black solid 1px;
+    border-bottom: 0px; 
+}
+
+#box:hover{
+    background-color:salmon;
+}
+
